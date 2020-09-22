@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nahyun Park"
+  name             : #"Nahyun Park"
   avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "I just keep googling stuff and it keeps working."
   location         : "Seoul, Korea"
