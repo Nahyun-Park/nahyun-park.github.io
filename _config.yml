@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I just keep googling stuff and it keeps working."
   location         : "Seoul, Korea"
-  email            : 
+  email            : "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
